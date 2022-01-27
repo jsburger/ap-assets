@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "architects_palette:block/myonite",
+    "top": "architects_palette:block/myonite",
+    "side": "architects_palette:block/myonite"
+  }
+}

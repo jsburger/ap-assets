@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "architects_palette:limestone_wall",
-    "architects_palette:limestone_brick_wall",
-    "architects_palette:mushy_limestone_brick_wall",
+    "architects_palette:myonite_wall",
+    "architects_palette:myonite_brick_wall",
+    "architects_palette:mushy_myonite_brick_wall",
     "architects_palette:olivestone_brick_wall",
     "architects_palette:olivestone_tile_wall",
     "architects_palette:algal_brick_wall",

@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "architects_palette:limestone_stairs",
-    "architects_palette:limestone_brick_stairs",
-    "architects_palette:mushy_limestone_brick_stairs",
+    "architects_palette:myonite_stairs",
+    "architects_palette:myonite_brick_stairs",
+    "architects_palette:mushy_myonite_brick_stairs",
     "architects_palette:olivestone_brick_stairs",
     "architects_palette:olivestone_tile_stairs",
     "architects_palette:algal_brick_stairs",
