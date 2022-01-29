@@ -1,0 +1,22 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "architects_palette:block/oak_boards",
+    "even": "architects_palette:block/oak_boards",
+    "odd": "architects_palette:block/oak_boards_odd"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#odd"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#even"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#odd"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#even"},
+        "up": {"uv": [0, 0, 16, 16], "texture": "#even"},
+        "down": {"uv": [0, 0, 16, 16], "texture": "#odd"}
+      }
+    }
+  ]
+}

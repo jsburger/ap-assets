@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "odd_x=false,odd_z=false": { "model": "architects_palette:block/boards/warped_boards" },
+        "odd_x=true,odd_z=false": { "model": "architects_palette:block/boards/warped_boards", "y": 90, "x": 180, "uvlock": true},
+        "odd_x=false,odd_z=true": { "model": "architects_palette:block/boards/warped_boards", "y": 90, "uvlock": true},
+        "odd_x=true,odd_z=true": { "model": "architects_palette:block/boards/warped_boards", "x": 180, "uvlock": true}
+    }
+}

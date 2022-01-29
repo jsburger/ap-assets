@@ -308,5 +308,15 @@
 
   "block.architects_palette.entrails_slab": "Entrails Slab",
   "block.architects_palette.entrails_vertical_slab": "Entrails Vertical Slab",
-  "block.architects_palette.entrails_stairs": "Entrails Stairs"
+  "block.architects_palette.entrails_stairs": "Entrails Stairs",
+
+  "block.architects_palette.oak_boards": "Oak Boards",
+  "block.architects_palette.dark_oak_boards": "Dark Oak Boards",
+  "block.architects_palette.spruce_boards": "Spruce Boards",
+  "block.architects_palette.twisted_boards": "Twisted Boards",
+  "block.architects_palette.birch_boards": "Birch Boards",
+  "block.architects_palette.acacia_boards": "Acacia Boards",
+  "block.architects_palette.warped_boards": "Warped Boards",
+  "block.architects_palette.crimson_boards": "Crimson Boards",
+  "block.architects_palette.jungle_boards": "Jungle Boards"
 }
