@@ -318,5 +318,15 @@
   "block.architects_palette.acacia_boards": "Acacia Boards",
   "block.architects_palette.warped_boards": "Warped Boards",
   "block.architects_palette.crimson_boards": "Crimson Boards",
-  "block.architects_palette.jungle_boards": "Jungle Boards"
+  "block.architects_palette.jungle_boards": "Jungle Boards",
+
+  "block.architects_palette.oak_railing": "Oak Railing",
+  "block.architects_palette.dark_oak_railing": "Dark Oak Railing",
+  "block.architects_palette.spruce_railing": "Spruce Railing",
+  "block.architects_palette.twisted_railing": "Twisted Railing",
+  "block.architects_palette.birch_railing": "Birch Railing",
+  "block.architects_palette.acacia_railing": "Acacia Railing",
+  "block.architects_palette.warped_railing": "Warped Railing",
+  "block.architects_palette.crimson_railing": "Crimson Railing",
+  "block.architects_palette.jungle_railing": "Jungle Railing"
 }
