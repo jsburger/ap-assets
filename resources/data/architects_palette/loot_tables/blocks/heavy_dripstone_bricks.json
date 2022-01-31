@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "architects_palette:heavy_dripstone"
+          "name": "architects_palette:heavy_dripstone_bricks"
         }
       ],
       "conditions": [
