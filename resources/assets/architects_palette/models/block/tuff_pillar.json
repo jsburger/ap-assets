@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end":  "architects_palette:block/tuff_pillar_top",
+        "side": "architects_palette:block/tuff_pillar",
+        "particle": "architects_palette:block/tuff_pillar"
+    }
+}

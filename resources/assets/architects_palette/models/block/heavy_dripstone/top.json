@@ -1,0 +1,11 @@
+{
+  "parent": "architects_palette:block/heavy_stone_bricks/top",
+  "textures": {
+    "particle": "architects_palette:block/heavy_dripstone_half",
+    "half": "architects_palette:block/heavy_dripstone_half",
+    "left": "architects_palette:block/heavy_dripstone_left",
+    "right": "architects_palette:block/heavy_dripstone_right",
+    "bottom": "architects_palette:block/heavy_dripstone_bottom",
+    "top": "architects_palette:block/heavy_dripstone_top"
+  }
+}

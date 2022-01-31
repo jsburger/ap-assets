@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end":  "architects_palette:block/chiseled_dripstone_top",
+        "side": "architects_palette:block/chiseled_dripstone",
+        "particle": "architects_palette:block/chiseled_dripstone"
+    }
+}

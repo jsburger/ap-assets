@@ -21,6 +21,9 @@
     "architects_palette:polished_packed_ice_wall",
     "architects_palette:plating_wall",
     "architects_palette:warpstone_wall",
-    "architects_palette:basalt_tile_wall"
+    "architects_palette:basalt_tile_wall",
+    "architects_palette:tuff_brick_wall",
+    "architects_palette:calcite_brick_wall",
+    "architects_palette:dripstone_brick_wall"
   ]
 }
