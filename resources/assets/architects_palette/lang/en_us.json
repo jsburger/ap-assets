@@ -14,6 +14,18 @@
   "architects_palette.rei.heavy_bricks_info": "Every 2 blocks connect together, making 4x4 version of vanilla's bricks possible.",
   "architects_palette.rei.cage_lantern_info": "Can be activated via redstone. By right-clicking, the redstone sensitivity could even be inverted!",
 
+  "__comment__": "These strings are here to be used in the JEI plugin for the Forge version. Eventually they may be ported to fabric.",
+  "architects_palette.info.warping_recipe_title": "Warping",
+  "__comment__": "The %s in the string is replaced with the corresponding dimension when displayed in game",
+  "architects_palette.info.warping_toss_description": "Toss into a portal that leads to %s.",
+  "__comment__": "Modders can add support to the preview by adding something like this to their lang files, under the architects_palette namespace",
+  "architects_palette.info.dimension.minecraft.the_nether": "the Nether",
+  "architects_palette.info.dimension.minecraft.the_end": "the End",
+  "architects_palette.info.dimension.minecraft.overworld": "the Overworld",
+  "architects_palette.info.chiseled_chargeable": "A Heart of the Sea may be placed in this block to charge it and all connected blocks.",
+  "architects_palette.info.chargeable": "These blocks can receive power from their Chiseled Bricks, check them out for more info.",
+  "architects_palette.info.totem_carving": "Using an axe on these totems will cycle their expressions.",
+
   "architects_palette.advancement.root": "Architect's Palette",
   "architects_palette.advancement.root.desc": "Time to build with something new.",
   "architects_palette.advancement.totem_carving": "Wipe that Grin off Your Face",
