@@ -370,5 +370,7 @@
   "block.architects_palette.heavy_dripstone_bricks": "Heavy Dripstone Bricks",
   "block.architects_palette.dripstone_lamp": "Dripstone Lamp",
   "block.architects_palette.chiseled_dripstone": "Chiseled Dripstone",
-  "block.architects_palette.dripstone_pillar": "Dripstone Pillar"
+  "block.architects_palette.dripstone_pillar": "Dripstone Pillar",
+
+  "block.architects_palette.heliodor_rod": "Heliodor Rod"
 }

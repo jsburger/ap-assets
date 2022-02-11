@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end":  "architects_palette:block/heliodor_rod_top",
+        "side": "architects_palette:block/heliodor_rod",
+        "particle": "architects_palette:block/heliodor_rod"
+    }
+}
