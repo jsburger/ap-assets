@@ -216,6 +216,8 @@
     "architects_palette:dripstone_lamp",
     "architects_palette:chiseled_dripstone",
     "architects_palette:dripstone_pillar",
-    "architects_palette:heliodor_rod"
+    "architects_palette:heliodor_rod",
+    "architects_palette:ekanite_rod",
+    "architects_palette:monazite_rod"
   ]
 }

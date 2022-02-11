@@ -372,5 +372,7 @@
   "block.architects_palette.chiseled_dripstone": "Chiseled Dripstone",
   "block.architects_palette.dripstone_pillar": "Dripstone Pillar",
 
-  "block.architects_palette.heliodor_rod": "Heliodor Rod"
+  "block.architects_palette.heliodor_rod": "Heliodor Rod",
+  "block.architects_palette.ekanite_rod": "Ekanite Rod",
+  "block.architects_palette.monazite_rod": "Monazite Rod"
 }
