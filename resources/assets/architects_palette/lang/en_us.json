@@ -374,5 +374,10 @@
 
   "block.architects_palette.heliodor_rod": "Heliodor Rod",
   "block.architects_palette.ekanite_rod": "Ekanite Rod",
-  "block.architects_palette.monazite_rod": "Monazite Rod"
+  "block.architects_palette.monazite_rod": "Monazite Rod",
+
+  "block.architects_palette.osseous_skull": "Osseous Skull",
+  "block.architects_palette.lit_osseous_skull": "Lit Osseous Skull",
+  "block.architects_palette.withered_osseous_skull": "Withered Osseous Skull",
+  "block.architects_palette.lit_withered_osseous_skull": "Lit Withered Osseous Skull"
 }

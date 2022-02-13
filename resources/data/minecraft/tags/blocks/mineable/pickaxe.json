@@ -218,6 +218,10 @@
     "architects_palette:dripstone_pillar",
     "architects_palette:heliodor_rod",
     "architects_palette:ekanite_rod",
-    "architects_palette:monazite_rod"
+    "architects_palette:monazite_rod",
+    "architects_palette:osseous_skull",
+    "architects_palette:lit_osseous_skull",
+    "architects_palette:withered_osseous_skull",
+    "architects_palette:lit_withered_osseous_skull"
   ]
 }
