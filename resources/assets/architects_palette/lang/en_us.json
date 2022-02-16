@@ -8,13 +8,6 @@
   "architects_palette.misc.no_quark": "Requires the Quark Mod installed",
   "architects_palette.misc.vertical_config": "Vertical Slabs are Disabled in the Config",
  
-  "architects_palette.rei.portal_warping": "Warping",
-  "architects_palette.rei.heart_info": "This is the power source of Abyssaline blocks.",
-  "architects_palette.rei.flint_blocks_info": "Ouch, flint is hard! 25% additional fall damage on all flint blocks.",
-  "architects_palette.rei.sunstone_info": "Know Day/Night at a glance. Even in the Nether!",
-  "architects_palette.rei.acacia_totems_info": "Carve the face expressions by right-clicking with an axe.",
-  "architects_palette.rei.heavy_bricks_info": "Every 2 blocks connect together, making 4x4 version of vanilla's bricks possible.",
-  "architects_palette.rei.cage_lantern_info": "Can be activated via redstone. By right-clicking, the redstone sensitivity could even be inverted!",
 
   "__comment__": "These strings are here to be used in the JEI plugin for the Forge version. Eventually they may be ported to fabric.",
   "architects_palette.info.warping_recipe_title": "Warping",
@@ -27,7 +20,11 @@
   "architects_palette.info.chiseled_chargeable": "A Heart of the Sea may be placed in this block to charge it and all connected blocks.",
   "architects_palette.info.chargeable": "These blocks can receive power from their Chiseled Bricks, check them out for more info.",
   "architects_palette.info.totem_carving": "Using an axe on these totems will cycle their expressions.",
-
+  "architects_palette.info.flint_damage": "Flint is hard! 25% additional fall damage on all flint blocks.",
+  "architects_palette.info.celestial_stones": "Know if it's Day or Night at a glance. Even in the Nether!",
+  "architects_palette.info.heavy_bricks": "Every 2 blocks connect together, making a 4x4 version of vanilla's bricks possible.",
+  "architects_palette.info.cage_lanterns": "Can be activated via redstone. The redstone sensitivity could even be inverted! (right-click)",
+  
   "architects_palette.advancement.root": "Architect's Palette",
   "architects_palette.advancement.root.desc": "Time to build with something new.",
   "architects_palette.advancement.totem_carving": "Wipe that Grin off Your Face",
