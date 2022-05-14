@@ -381,5 +381,7 @@
   "block.architects_palette.lit_withered_osseous_skull": "Lit Withered Osseous Skull",
 
   "block.architects_palette.unobtanium_block": "Unobtanium Block",
-  "item.architects_palette.unobtanium": "Unobtanium"
+  "item.architects_palette.unobtanium": "Unobtanium",
+
+  "block.architects_palette.polished_glowstone_wall": "Polished Glowstone Wall"
 }

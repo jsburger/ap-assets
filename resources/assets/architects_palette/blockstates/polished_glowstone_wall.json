@@ -5,7 +5,7 @@
         "up": "true"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/post"
+        "model": "architects_palette:block/fancy_walls/polished_glowstone/post"
       }
     },
     {
@@ -13,7 +13,7 @@
         "north": "low"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_low_front"
+        "model": "architects_palette:block/fancy_walls/polished_glowstone/side_low_front"
       }
     },
     {
@@ -21,7 +21,7 @@
         "east": "low"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_low_back",
+        "model": "architects_palette:block/fancy_walls/polished_glowstone/side_low_back",
         "y": 90
       }
     },
@@ -30,7 +30,7 @@
         "south": "low"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_low_back",
+        "model": "architects_palette:block/fancy_walls/polished_glowstone/side_low_back",
         "y": 180
       }
     },
@@ -39,7 +39,7 @@
         "west": "low"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_low_front",
+        "model": "architects_palette:block/fancy_walls/polished_glowstone/side_low_front",
         "y": 270
       }
     },
@@ -48,7 +48,7 @@
         "north": "tall"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_tall_front"
+        "model": "architects_palette:block/fancy_walls/polished_glowstone/side_tall_front"
       }
     },
     {
@@ -56,7 +56,7 @@
         "east": "tall"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_tall_back",
+        "model": "architects_palette:block/fancy_walls/polished_glowstone/side_tall_back",
         "y": 90
       }
     },
@@ -65,7 +65,7 @@
         "south": "tall"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_tall_back",
+        "model": "architects_palette:block/fancy_walls/polished_glowstone/side_tall_back",
         "y": 180
       }
     },
@@ -74,7 +74,7 @@
         "west": "tall"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_tall_front",
+        "model": "architects_palette:block/fancy_walls/polished_glowstone/side_tall_front",
         "y": 270
       }
     }

@@ -1,0 +1,7 @@
+{
+    "parent": "architects_palette:block/fancy_walls/parent/inventory",
+    "textures": {
+        "wall": "architects_palette:block/polished_glowstone_wall",
+        "particle": "#wall"
+    }
+}
