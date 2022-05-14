@@ -378,5 +378,8 @@
   "block.architects_palette.osseous_skull": "Osseous Skull",
   "block.architects_palette.lit_osseous_skull": "Lit Osseous Skull",
   "block.architects_palette.withered_osseous_skull": "Withered Osseous Skull",
-  "block.architects_palette.lit_withered_osseous_skull": "Lit Withered Osseous Skull"
+  "block.architects_palette.lit_withered_osseous_skull": "Lit Withered Osseous Skull",
+
+  "block.architects_palette.unobtanium_block": "Unobtanium Block",
+  "item.architects_palette.unobtanium": "Unobtanium"
 }
