@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "architects_palette:block/cut_nether_brass_top",
+        "side": "architects_palette:block/cut_nether_brass",
+        "particle": "#end"
+    }
+}

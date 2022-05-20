@@ -383,5 +383,21 @@
   "block.architects_palette.unobtanium_block": "Unobtanium Block",
   "item.architects_palette.unobtanium": "Unobtanium",
 
-  "block.architects_palette.polished_glowstone_wall": "Polished Glowstone Wall"
+  "block.architects_palette.polished_glowstone_wall": "Polished Glowstone Wall",
+
+  "block.architects_palette.nether_brass_block": "Nether Brass Block",
+  "block.architects_palette.nether_brass_wall": "Nether Brass Wall",
+  "block.architects_palette.nether_brass_stairs": "Nether Brass Stairs",
+  "block.architects_palette.nether_brass_slab": "Nether Brass Slab",
+  "block.architects_palette.nether_brass_vertical_slab": "Nether Brass Vertical Slab",
+  "block.architects_palette.cut_nether_brass": "Cut Nether Brass",
+  "block.architects_palette.cut_nether_brass_wall": "Cut Nether Brass Wall",
+  "block.architects_palette.cut_nether_brass_stairs": "Cut Nether Brass Stairs",
+  "block.architects_palette.cut_nether_brass_slab": "Cut Nether Brass Slab",
+  "block.architects_palette.cut_nether_brass_vertical_slab": "Cut Nether Brass Vertical Slab",
+  "block.architects_palette.nether_brass_pillar": "Nether Brass Pillar",
+  "block.architects_palette.smooth_nether_brass": "Smooth Nether Brass",
+  "item.architects_palette.nether_brass_blend": "Nether Brass Blend",
+  "item.architects_palette.nether_brass_ingot": "Nether Brass Ingot",
+  "block.architects_palette.nether_brass_fire": "Nether Brass Fire"
 }

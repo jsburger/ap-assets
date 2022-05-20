@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end":  "architects_palette:block/nether_brass_block",
+        "side": "architects_palette:block/nether_brass_slab",
+        "particle": "architects_palette:block/nether_brass_block"
+    }
+}

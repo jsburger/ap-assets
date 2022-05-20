@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "architects_palette:block/cut_nether_brass_slab" },
+        "type=top": { "model": "architects_palette:block/cut_nether_brass_slab_top" },
+        "type=double": { "model": "architects_palette:block/cut_nether_brass" }
+    }
+}

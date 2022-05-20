@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "architects_palette:block/cut_nether_brass_top",
+    "top": "architects_palette:block/cut_nether_brass_top",
+    "side": "architects_palette:block/cut_nether_brass"
+  }
+}

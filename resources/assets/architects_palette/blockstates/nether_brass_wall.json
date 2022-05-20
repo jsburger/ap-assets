@@ -1,0 +1,82 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/nether_brass/post"
+      }
+    },
+    {
+      "when": {
+        "north": "low"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/nether_brass/side_low_front"
+      }
+    },
+    {
+      "when": {
+        "east": "low"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/nether_brass/side_low_back",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "low"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/nether_brass/side_low_back",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "low"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/nether_brass/side_low_front",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "north": "tall"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/nether_brass/side_tall_front"
+      }
+    },
+    {
+      "when": {
+        "east": "tall"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/nether_brass/side_tall_back",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "tall"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/nether_brass/side_tall_back",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "tall"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/nether_brass/side_tall_front",
+        "y": 270
+      }
+    }
+  ]
+}

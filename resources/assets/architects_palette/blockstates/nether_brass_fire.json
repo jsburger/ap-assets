@@ -1,0 +1,90 @@
+{
+  "multipart": [
+    {
+      "apply": [
+        {
+          "model": "architects_palette:block/nether_brass_fire/floor0"
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/floor1"
+        }
+      ]
+    },
+    {
+      "apply": [
+        {
+          "model": "architects_palette:block/nether_brass_fire/side0"
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side1"
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side_alt0"
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side_alt1"
+        }
+      ]
+    },
+    {
+      "apply": [
+        {
+          "model": "architects_palette:block/nether_brass_fire/side0",
+          "y": 90
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side1",
+          "y": 90
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side_alt0",
+          "y": 90
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side_alt1",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "apply": [
+        {
+          "model": "architects_palette:block/nether_brass_fire/side0",
+          "y": 180
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side1",
+          "y": 180
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side_alt0",
+          "y": 180
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side_alt1",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "apply": [
+        {
+          "model": "architects_palette:block/nether_brass_fire/side0",
+          "y": 270
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side1",
+          "y": 270
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side_alt0",
+          "y": 270
+        },
+        {
+          "model": "architects_palette:block/nether_brass_fire/side_alt1",
+          "y": 270
+        }
+      ]
+    }
+  ]
+}
