@@ -397,7 +397,14 @@
   "block.architects_palette.cut_nether_brass_vertical_slab": "Cut Nether Brass Vertical Slab",
   "block.architects_palette.nether_brass_pillar": "Nether Brass Pillar",
   "block.architects_palette.smooth_nether_brass": "Smooth Nether Brass",
+  "block.architects_palette.smooth_nether_brass_slab": "Smooth Nether Brass Slab",
+  "block.architects_palette.smooth_nether_brass_vertical_slab": "Smooth Nether Brass Vertical Slab",
+  "block.architects_palette.smooth_nether_brass_stairs": "Smooth Nether Brass Stairs",
   "item.architects_palette.nether_brass_blend": "Nether Brass Blend",
   "item.architects_palette.nether_brass_ingot": "Nether Brass Ingot",
-  "block.architects_palette.nether_brass_fire": "Nether Brass Fire"
+  "block.architects_palette.nether_brass_fire": "Nether Brass Fire",
+  "block.architects_palette.nether_brass_chain": "Nether Brass Chain",
+  "block.architects_palette.nether_brass_lantern": "Nether Brass Lantern",
+  "block.architects_palette.nether_brass_torch": "Nether Brass Torch",
+  "item.architects_palette.nether_brass_nugget": "Nether Brass Nugget"
 }

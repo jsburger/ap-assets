@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_lantern",
+    "textures": {
+        "lantern": "architects_palette:block/nether_brass_lantern",
+        "particle": "#lantern"
+    }
+}

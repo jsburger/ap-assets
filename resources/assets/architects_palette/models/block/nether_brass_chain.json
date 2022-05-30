@@ -1,0 +1,7 @@
+{
+    "parent": "block/chain",
+    "textures": {
+        "all": "architects_palette:block/nether_brass_chain",
+        "particle": "#all"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "architects_palette:block/nether_brass_chain",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "architects_palette:block/nether_brass_chain"
+    },
+    "axis=z": {
+      "model": "architects_palette:block/nether_brass_chain",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_torch_wall",
+    "textures": {
+        "torch": "architects_palette:block/nether_brass_torch",
+        "particle": "#torch"
+    }
+}

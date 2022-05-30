@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "architects_palette:block/nether_brass_wall_torch"
+    },
+    "facing=north": {
+      "model": "architects_palette:block/nether_brass_wall_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "architects_palette:block/nether_brass_wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "architects_palette:block/nether_brass_wall_torch",
+      "y": 180
+    }
+  }
+}
