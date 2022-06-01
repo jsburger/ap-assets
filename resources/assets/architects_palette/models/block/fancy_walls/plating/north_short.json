@@ -1,5 +1,5 @@
 {
-    "parent": "architects_palette:block/fancy_walls/parent/side_low_front",
+    "parent": "architects_palette:block/fancy_walls/parent/north_short",
     "textures": {
         "wall": "architects_palette:block/plating_wall",
         "particle": "#wall"

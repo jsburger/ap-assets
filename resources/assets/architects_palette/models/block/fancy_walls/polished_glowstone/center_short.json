@@ -1,5 +1,5 @@
 {
-    "parent": "architects_palette:block/fancy_walls/parent/side_low_front",
+    "parent": "architects_palette:block/fancy_walls/parent/center_short",
     "textures": {
         "wall": "architects_palette:block/polished_glowstone_wall",
         "particle": "#wall"

@@ -10,10 +10,35 @@
     },
     {
       "when": {
+        "OR": [
+          {"north": "tall"},
+          {"south": "tall"},
+          {"west": "tall"},
+          {"east": "tall"}
+        ]
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/plating/center_tall"
+      }
+    },
+    {
+      "when": {
+        "up": "false",
+        "north": "low|none",
+        "south": "low|none",
+        "west":  "low|none",
+        "east":  "low|none"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/plating/center_short"
+      }
+    },
+    {
+      "when": {
         "north": "low"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_low_front"
+        "model": "architects_palette:block/fancy_walls/plating/north_short"
       }
     },
     {
@@ -21,8 +46,7 @@
         "east": "low"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_low_back",
-        "y": 90
+        "model": "architects_palette:block/fancy_walls/plating/east_short"
       }
     },
     {
@@ -30,8 +54,7 @@
         "south": "low"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_low_back",
-        "y": 180
+        "model": "architects_palette:block/fancy_walls/plating/south_short"
       }
     },
     {
@@ -39,8 +62,7 @@
         "west": "low"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_low_front",
-        "y": 270
+        "model": "architects_palette:block/fancy_walls/plating/west_short"
       }
     },
     {
@@ -48,7 +70,7 @@
         "north": "tall"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_tall_front"
+        "model": "architects_palette:block/fancy_walls/plating/north_tall"
       }
     },
     {
@@ -56,8 +78,7 @@
         "east": "tall"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_tall_back",
-        "y": 90
+        "model": "architects_palette:block/fancy_walls/plating/east_tall"
       }
     },
     {
@@ -65,8 +86,7 @@
         "south": "tall"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_tall_back",
-        "y": 180
+        "model": "architects_palette:block/fancy_walls/plating/south_tall"
       }
     },
     {
@@ -74,8 +94,7 @@
         "west": "tall"
       },
       "apply": {
-        "model": "architects_palette:block/fancy_walls/plating/side_tall_front",
-        "y": 270
+        "model": "architects_palette:block/fancy_walls/plating/west_tall"
       }
     }
   ]
