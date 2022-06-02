@@ -9,7 +9,7 @@
   "architects_palette.misc.vertical_config": "Vertical Slabs are Disabled in the Config",
  
 
-  "__comment__": "These strings are here to be used in the JEI plugin for the Forge version. Eventually they may be ported to fabric.",
+  "__comment__": "These strings are used in the JEI/REI plugins.",
   "architects_palette.info.warping_recipe_title": "Warping",
   "__comment__": "The %s in the string is replaced with the corresponding dimension when displayed in game",
   "architects_palette.info.warping_toss_description": "Toss into a portal that leads to %s.",
