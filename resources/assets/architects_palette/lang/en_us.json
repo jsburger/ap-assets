@@ -11,6 +11,8 @@
 
   "__comment__": "These strings are used in the JEI/REI plugins.",
   "architects_palette.info.warping_recipe_title": "Warping",
+  "__comment__": "EMI implementation detail. Should be the same string as above.",
+  "emi.category.architects_palette.warping": "Warping",
   "__comment__": "The %s in the string is replaced with the corresponding dimension when displayed in game",
   "architects_palette.info.warping_toss_description": "Toss into a portal that leads to %s.",
   "__comment__": "Modders can add support to the preview by adding something like this to their lang files, under the architects_palette namespace",
@@ -110,6 +112,8 @@
   "block.architects_palette.olivestone_tile_stairs": "Olivestone Tile Stairs",
   "block.architects_palette.illuminated_olivestone": "Illuminated Olivestone",
   "block.architects_palette.chiseled_olivestone": "Chiseled Olivestone",
+  "tag.architects_palette.olivestone": "Olivestone",
+  "tag.architects_palette.olivestone_slabs": "Olivestone Slabs",
 
   "block.architects_palette.algal_bricks": "Algal Bricks",
   "block.architects_palette.cracked_algal_bricks": "Cracked Algal Bricks",
@@ -226,6 +230,7 @@
   "block.architects_palette.withered_osseous_brick_vertical_slab": "Withered Osseous Brick Vertical Slab",
   "block.architects_palette.wither_lamp": "Wither Lamp",
   "item.architects_palette.withered_bone": "Withered Bone",
+  "tag.c.withered_bones": "Withered Bones",
 
   "block.architects_palette.entwine_block": "Entwine",
   "block.architects_palette.chiseled_entwine": "Chiseled Entwine",
@@ -288,6 +293,7 @@
   "block.architects_palette.twisted_leaves": "Twisted Leaves",
   "block.architects_palette.twisted_sapling": "Twisted Sapling",
   "block.architects_palette.potted_twisted_sapling": "Potted Twisted Sapling",
+  "tag.architects_palette.twisted_logs": "Twisted Logs",
 
   "block.architects_palette.basalt_tiles": "Basalt Tiles",
   "block.architects_palette.basalt_tile_wall": "Basalt Tile Wall",
