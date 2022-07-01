@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "architects_palette:block/esoterrack",
+    "top": "architects_palette:block/esoterrack",
+    "side": "architects_palette:block/esoterrack"
+  }
+}

@@ -413,5 +413,29 @@
   "block.architects_palette.nether_brass_chain": "Nether Brass Chain",
   "block.architects_palette.nether_brass_lantern": "Nether Brass Lantern",
   "block.architects_palette.nether_brass_torch": "Nether Brass Torch",
-  "item.architects_palette.nether_brass_nugget": "Nether Brass Nugget"
+  "item.architects_palette.nether_brass_nugget": "Nether Brass Nugget",
+
+  "block.architects_palette.esoterrack": "Esoterrack",
+  "block.architects_palette.esoterrack_wall": "Esoterrack Wall",
+  "block.architects_palette.esoterrack_stairs": "Esoterrack Stairs",
+  "block.architects_palette.esoterrack_slab": "Esoterrack Slab",
+  "block.architects_palette.esoterrack_vertical_slab": "Esoterrack Vertical Slab",
+  "block.architects_palette.esoterrack_pillar": "Esoterrack Pillar",
+  "block.architects_palette.esoterrack_bricks": "Esoterrack Bricks",
+  "block.architects_palette.esoterrack_brick_wall": "Esoterrack Brick Wall",
+  "block.architects_palette.esoterrack_brick_stairs": "Esoterrack Brick Stairs",
+  "block.architects_palette.esoterrack_brick_slab": "Esoterrack Brick Slab",
+  "block.architects_palette.esoterrack_brick_vertical_slab": "Esoterrack Brick Vertical Slab",
+
+  "block.architects_palette.onyx": "Onyx",
+  "block.architects_palette.onyx_wall": "Onyx Wall",
+  "block.architects_palette.onyx_stairs": "Onyx Stairs",
+  "block.architects_palette.onyx_slab": "Onyx Slab",
+  "block.architects_palette.onyx_vertical_slab": "Onyx Vertical Slab",
+  "block.architects_palette.onyx_pillar": "Onyx Pillar",
+  "block.architects_palette.onyx_bricks": "Onyx Bricks",
+  "block.architects_palette.onyx_brick_wall": "Onyx Brick Wall",
+  "block.architects_palette.onyx_brick_stairs": "Onyx Brick Stairs",
+  "block.architects_palette.onyx_brick_slab": "Onyx Brick Slab",
+  "block.architects_palette.onyx_brick_vertical_slab": "Onyx Brick Vertical Slab"
 }
