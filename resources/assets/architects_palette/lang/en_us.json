@@ -437,5 +437,21 @@
   "block.architects_palette.onyx_brick_wall": "Onyx Brick Wall",
   "block.architects_palette.onyx_brick_stairs": "Onyx Brick Stairs",
   "block.architects_palette.onyx_brick_slab": "Onyx Brick Slab",
-  "block.architects_palette.onyx_brick_vertical_slab": "Onyx Brick Vertical Slab"
+  "block.architects_palette.onyx_brick_vertical_slab": "Onyx Brick Vertical Slab",
+
+  "block.architects_palette.wardstone": "Wardstone",
+  "block.architects_palette.wardstone_wall": "Wardstone Wall",
+  "block.architects_palette.wardstone_stairs": "Wardstone Stairs",
+  "block.architects_palette.wardstone_slab": "Wardstone Slab",
+  "block.architects_palette.wardstone_vertical_slab": "Wardstone Vertical Slab",
+  "block.architects_palette.wardstone_pillar": "Wardstone Pillar",
+  "block.architects_palette.chiseled_wardstone": "Chiseled Wardstone",
+  "block.architects_palette.wardstone_bricks": "Wardstone Bricks",
+  "block.architects_palette.wardstone_brick_wall": "Wardstone Brick Wall",
+  "block.architects_palette.wardstone_brick_stairs": "Wardstone Brick Stairs",
+  "block.architects_palette.wardstone_brick_slab": "Wardstone Brick Slab",
+  "block.architects_palette.wardstone_brick_vertical_slab": "Wardstone Brick Vertical Slab",
+  "block.architects_palette.wardstone_lamp": "Wardstone Lamp",
+  "item.architects_palette.wardstone_brick": "Wardstone Brick",
+  "item.architects_palette.wardstone_blend": "Wardstone Blend"
 }

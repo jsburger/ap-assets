@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "architects_palette:block/wardstone_slab"
+        },
+        "type=top": {
+            "model": "architects_palette:block/wardstone_slab_top"
+        },
+        "type=double": {
+            "model": "architects_palette:block/double_wardstone_slab"
+        }
+    }
+}

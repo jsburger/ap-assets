@@ -1,0 +1,7 @@
+{
+    "parent": "architects_palette:block/fancy_walls/parent/north_tall",
+    "textures": {
+        "wall": "architects_palette:block/wardstone_wall",
+        "particle": "#wall"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "architects_palette:block/wardstone",
+        "side": "architects_palette:block/wardstone_slab",
+        "particle": "#end"
+    }
+}
