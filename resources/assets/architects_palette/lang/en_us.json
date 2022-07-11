@@ -453,5 +453,12 @@
   "block.architects_palette.wardstone_brick_vertical_slab": "Wardstone Brick Vertical Slab",
   "block.architects_palette.wardstone_lamp": "Wardstone Lamp",
   "item.architects_palette.wardstone_brick": "Wardstone Brick",
-  "item.architects_palette.wardstone_blend": "Wardstone Blend"
+  "item.architects_palette.wardstone_blend": "Wardstone Blend",
+
+  "block.architects_palette.ancient_plating": "Ancient Plating",
+  "block.architects_palette.ancient_plating_wall": "Ancient Plating Wall",
+  "block.architects_palette.ancient_plating_stairs": "Ancient Plating Stairs",
+  "block.architects_palette.ancient_plating_slab": "Ancient Plating Slab",
+  "block.architects_palette.ancient_plating_vertical_slab": "Ancient Plating Vertical Slab",
+  "block.architects_palette.ancient_plating_fence": "Ancient Plating Fence"
 }

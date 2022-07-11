@@ -1,0 +1,101 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/post"
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {"north": "tall"},
+          {"south": "tall"},
+          {"west": "tall"},
+          {"east": "tall"}
+        ]
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/center_tall"
+      }
+    },
+    {
+      "when": {
+        "up": "false",
+        "north": "low|none",
+        "south": "low|none",
+        "west":  "low|none",
+        "east":  "low|none"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/center_short"
+      }
+    },
+    {
+      "when": {
+        "north": "low"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/north_short"
+      }
+    },
+    {
+      "when": {
+        "east": "low"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/east_short"
+      }
+    },
+    {
+      "when": {
+        "south": "low"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/south_short"
+      }
+    },
+    {
+      "when": {
+        "west": "low"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/west_short"
+      }
+    },
+    {
+      "when": {
+        "north": "tall"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/north_tall"
+      }
+    },
+    {
+      "when": {
+        "east": "tall"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/east_tall"
+      }
+    },
+    {
+      "when": {
+        "south": "tall"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/south_tall"
+      }
+    },
+    {
+      "when": {
+        "west": "tall"
+      },
+      "apply": {
+        "model": "architects_palette:block/fancy_walls/ancient_plating/west_tall"
+      }
+    }
+  ]
+}

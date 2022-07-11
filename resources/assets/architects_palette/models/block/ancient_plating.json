@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "architects_palette:block/ancient_plating",
+    "particle": "architects_palette:block/ancient_plating"
+  }
+}

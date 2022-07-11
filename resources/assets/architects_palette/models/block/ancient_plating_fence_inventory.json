@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "architects_palette:block/ancient_plating",
+        "particle": "#texture"
+    }
+}

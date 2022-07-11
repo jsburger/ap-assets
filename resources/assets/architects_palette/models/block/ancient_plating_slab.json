@@ -1,0 +1,9 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "architects_palette:block/ancient_plating",
+        "top": "architects_palette:block/ancient_plating",
+        "side": "architects_palette:block/ancient_plating_slab",
+        "particle": "#bottom"
+    }
+}

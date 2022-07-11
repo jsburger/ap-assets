@@ -1,0 +1,7 @@
+{
+    "parent": "architects_palette:block/fancy_walls/parent/post",
+    "textures": {
+        "wall": "architects_palette:block/ancient_plating_wall",
+        "particle": "#wall"
+    }
+}
