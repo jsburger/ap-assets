@@ -2,7 +2,7 @@
     "parent": "block/cube_column",
     "textures": {
         "end":  "architects_palette:block/charcoal_block_top",
-        "side": "architects_palette:block/charcoal_block_side",
-        "particle": "architects_palette:block/charcoal_block_side"
+        "side": "architects_palette:block/charcoal_block",
+        "particle": "architects_palette:block/charcoal_block"
     }
 }

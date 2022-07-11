@@ -2,7 +2,7 @@
     "parent": "block/cube_column",
     "textures": {
         "end":  "architects_palette:block/salmon_log_top",
-        "side": "architects_palette:block/salmon_log_side",
-        "particle": "architects_palette:block/salmon_log_side"
+        "side": "architects_palette:block/salmon_log",
+        "particle": "architects_palette:block/salmon_log"
     }
 }
