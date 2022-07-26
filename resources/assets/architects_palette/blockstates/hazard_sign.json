@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "architects_palette:block/hazard_sign"
+        },
+        "facing=east": {
+            "model": "architects_palette:block/hazard_sign",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "architects_palette:block/hazard_sign",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "architects_palette:block/hazard_sign",
+            "y": 270
+        }
+    }
+}
