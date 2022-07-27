@@ -460,5 +460,7 @@
   "block.architects_palette.ancient_plating_stairs": "Ancient Plating Stairs",
   "block.architects_palette.ancient_plating_slab": "Ancient Plating Slab",
   "block.architects_palette.ancient_plating_vertical_slab": "Ancient Plating Vertical Slab",
-  "block.architects_palette.ancient_plating_fence": "Ancient Plating Fence"
+  "block.architects_palette.ancient_plating_fence": "Ancient Plating Fence",
+
+  "block.architects_palette.hazard_sign": "Hazard Sign"
 }
