@@ -10,9 +10,11 @@
 
 
   "__comment__": "These strings are used in the JEI/REI plugins.",
-  "architects_palette.info.warping_recipe_title": "Warping",
+  "architects_palette.info.warping_recipe_title": "跃迁",
+  "__comment__": "EMI implementation detail. Should be the same string as above.",
+  "emi.category.architects_palette.warping": "跃迁",
   "__comment__": "The %s in the string is replaced with the corresponding dimension when displayed in game",
-  "architects_palette.info.warping_toss_description": "Toss into a portal that leads to %s.",
+  "architects_palette.info.warping_toss_description": "进入通往%s的传送门。",
   "__comment__": "Modders can add support to the preview by adding something like this to their lang files, under the architects_palette namespace",
   "architects_palette.info.dimension.minecraft.the_nether": "下界",
   "architects_palette.info.dimension.minecraft.the_end": "末地",
@@ -110,6 +112,8 @@
   "block.architects_palette.olivestone_tile_stairs": "橄榄石瓦楼梯",
   "block.architects_palette.illuminated_olivestone": "发光橄榄石",
   "block.architects_palette.chiseled_olivestone": "錾制橄榄石",
+  "tag.architects_palette.olivestone": "橄榄石",
+  "tag.architects_palette.olivestone_slabs": "橄榄石台阶",
 
   "block.architects_palette.algal_bricks": "海藻砖块",
   "block.architects_palette.cracked_algal_bricks": "裂纹海藻砖块",
@@ -226,6 +230,7 @@
   "block.architects_palette.withered_osseous_brick_vertical_slab": "凋零骨砖纵台阶",
   "block.architects_palette.wither_lamp": "凋灵灯",
   "item.architects_palette.withered_bone": "凋零骨头",
+  "tag.c.withered_bones": "凋零骨头",
 
   "block.architects_palette.entwine_block": "缠影块",
   "block.architects_palette.chiseled_entwine": "錾制缠影块",
@@ -288,6 +293,7 @@
   "block.architects_palette.twisted_leaves": "扭曲树叶",
   "block.architects_palette.twisted_sapling": "扭曲树苗",
   "block.architects_palette.potted_twisted_sapling": "扭曲树苗盆栽",
+  "tag.architects_palette.twisted_logs": "扭曲原木",
 
   "block.architects_palette.basalt_tiles": "玄武岩瓦",
   "block.architects_palette.basalt_tile_wall": "玄武岩瓦墙",
