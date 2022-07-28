@@ -1,18 +1,18 @@
 {
     "variants": {
         "facing=north": {
-            "model": "architects_palette:block/nubs/smooth_stone_nub"
+            "model": "architects_palette:block/nubs/smooth_stone_nub_horizontal"
         },
         "facing=east": {
-            "model": "architects_palette:block/nubs/smooth_stone_nub",
+            "model": "architects_palette:block/nubs/smooth_stone_nub_horizontal",
             "y": 90
         },
         "facing=south": {
-            "model": "architects_palette:block/nubs/smooth_stone_nub",
+            "model": "architects_palette:block/nubs/smooth_stone_nub_horizontal",
             "y": 180
         },
         "facing=west": {
-            "model": "architects_palette:block/nubs/smooth_stone_nub",
+            "model": "architects_palette:block/nubs/smooth_stone_nub_horizontal",
             "y": 270
         },
         "facing=up": {
