@@ -462,5 +462,13 @@
   "block.architects_palette.ancient_plating_vertical_slab": "Ancient Plating Vertical Slab",
   "block.architects_palette.ancient_plating_fence": "Ancient Plating Fence",
 
-  "block.architects_palette.hazard_sign": "Hazard Sign"
+  "block.architects_palette.hazard_sign": "Hazard Sign",
+
+  "block.architects_palette.plating_nub": "Plating Nub",
+  "block.architects_palette.nether_brass_nub": "Nether Brass Nub",
+  "block.architects_palette.nub_of_ender": "Nub Of Ender",
+  "block.architects_palette.smooth_stone_nub": "Smooth Stone Nub",
+  "block.architects_palette.sandstone_nub": "Sandstone Nub",
+  "block.architects_palette.bone_nub": "Bone Nub",
+  "block.architects_palette.polished_glowstone_nub": "Polished Glowstone Nub"
 }
