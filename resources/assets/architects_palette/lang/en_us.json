@@ -470,5 +470,17 @@
   "block.architects_palette.smooth_stone_nub": "Smooth Stone Nub",
   "block.architects_palette.sandstone_nub": "Sandstone Nub",
   "block.architects_palette.bone_nub": "Bone Nub",
-  "block.architects_palette.polished_glowstone_nub": "Polished Glowstone Nub"
+  "block.architects_palette.polished_glowstone_nub": "Polished Glowstone Nub",
+  "block.architects_palette.gold_nub": "Gold Nub",
+  "block.architects_palette.andesite_nub": "Andesite Nub",
+  "block.architects_palette.blackstone_nub": "Blackstone Nub",
+  "block.architects_palette.deepslate_nub": "Deepslate Nub",
+  "block.architects_palette.diamond_nub": "Diamond Nub",
+  "block.architects_palette.diorite_nub": "Diorite Nub",
+  "block.architects_palette.emerald_nub": "Emerald Nub",
+  "block.architects_palette.granite_nub": "Granite Nub",
+  "block.architects_palette.iron_nub": "Iron Nub",
+  "block.architects_palette.netherite_nub": "Netherite Nub",
+  "block.architects_palette.stone_nub": "Stone Nub",
+  "block.architects_palette.sunmetal_nub": "Sunmetal Nub"
 }

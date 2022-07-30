@@ -1,0 +1,9 @@
+{
+    "parent": "architects_palette:block/nubs/parent_horizontal",
+    "textures": {
+        "top": "architects_palette:block/nubs/deepslate_nub_top",
+        "bottom": "architects_palette:block/nubs/deepslate_nub_top",
+        "side": "architects_palette:block/nubs/deepslate_nub_side",
+        "particle": "#top"
+    }
+}

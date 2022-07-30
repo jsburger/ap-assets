@@ -1,0 +1,9 @@
+{
+    "parent": "architects_palette:block/nubs/parent",
+    "textures": {
+        "top": "architects_palette:block/nubs/netherite_nub_top",
+        "bottom": "architects_palette:block/nubs/netherite_nub_top",
+        "side": "architects_palette:block/nubs/netherite_nub_side",
+        "particle": "#top"
+    }
+}
