@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "architects_palette:block/abyssaline_plating_top_charged",
+        "side": "architects_palette:block/abyssaline_plating_side_charged",
+        "bottom": "architects_palette:block/abyssaline_plating_bottom_charged",
+        "particle": "#top"
+    }
+}

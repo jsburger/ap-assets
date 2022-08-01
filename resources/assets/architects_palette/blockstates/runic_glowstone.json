@@ -1,5 +1,27 @@
 {
-  "variants": {
-    "": {"model": "architects_palette:block/runic_glowstone"}
-  }
+    "variants": {
+        "facing=north": {
+            "model": "architects_palette:block/runic_glowstone"
+        },
+        "facing=east": {
+            "model": "architects_palette:block/runic_glowstone",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "architects_palette:block/runic_glowstone",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "architects_palette:block/runic_glowstone",
+            "y": 270
+        },
+        "facing=up": {
+            "model": "architects_palette:block/runic_glowstone",
+            "x": 270
+        },
+        "facing=down": {
+            "model": "architects_palette:block/runic_glowstone",
+            "x": 90
+        }
+    }
 }
