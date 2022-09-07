@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/stairs",
+  "parent": "architects_palette:block/stairs_tile_outer_pos",
   "textures": {
     "bottom": "architects_palette:block/flint_tiles",
     "top": "architects_palette:block/flint_tiles",

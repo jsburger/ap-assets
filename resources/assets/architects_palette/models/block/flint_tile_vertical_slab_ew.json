@@ -1,5 +1,5 @@
 {
-	"parent": "architects_palette:block/slab_tile_top",
+	"parent": "architects_palette:block/vertical_slab_tile_ew",
 	"textures": {
 		"bottom": "architects_palette:block/flint_tiles",
 		"top": "architects_palette:block/flint_tiles",

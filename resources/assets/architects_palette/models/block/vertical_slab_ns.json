@@ -1,5 +1,5 @@
 {
-	"parent": "architects_palette:block/slab_tile",
+	"parent": "architects_palette:block/vertical_slab_tile_ns",
 	"textures": {
 		"bottom": "architects_palette:block/gilded_sandstone",
 		"top": "architects_palette:block/gilded_sandstone",

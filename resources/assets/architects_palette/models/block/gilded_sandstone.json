@@ -1,7 +1,7 @@
 {
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "architects_palette:block/gilded_sandstone",
-    "particle": "architects_palette:block/gilded_sandstone"
-  }
+	"parent": "architects_palette:block/cube_tile",
+	"textures": {
+		"all": "architects_palette:block/gilded_sandstone",
+		"particle": "architects_palette:block/gilded_sandstone"
+	}
 }

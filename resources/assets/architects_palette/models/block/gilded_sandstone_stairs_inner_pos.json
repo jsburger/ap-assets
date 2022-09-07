@@ -1,0 +1,8 @@
+{
+  "parent": "architects_palette:block/stairs_tile_inner_pos",
+  "textures": {
+    "bottom": "architects_palette:block/gilded_sandstone",
+    "top": "architects_palette:block/gilded_sandstone",
+    "side": "architects_palette:block/gilded_sandstone"
+  }
+}
