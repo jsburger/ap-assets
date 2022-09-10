@@ -1,0 +1,48 @@
+{
+    "variants": {
+        "type=north,charged=true": {
+            "model": "architects_palette:block/hadaline_brick_vertical_slab_charged",
+            "uvlock": true
+        },
+        "type=north,charged=false": {
+            "model": "architects_palette:block/hadaline_brick_vertical_slab",
+            "uvlock": true
+        },
+        "type=east,charged=true": {
+            "model": "architects_palette:block/hadaline_brick_vertical_slab_charged",
+            "uvlock": true,
+            "y": 90
+        },
+        "type=east,charged=false": {
+            "model": "architects_palette:block/hadaline_brick_vertical_slab",
+            "uvlock": true,
+            "y": 90
+        },
+        "type=south,charged=true": {
+            "model": "architects_palette:block/hadaline_brick_vertical_slab_charged",
+            "uvlock": true,
+            "y": 180
+        },
+        "type=south,charged=false": {
+            "model": "architects_palette:block/hadaline_brick_vertical_slab",
+            "uvlock": true,
+            "y": 180
+        },
+        "type=west,charged=true": {
+            "model": "architects_palette:block/hadaline_brick_vertical_slab_charged",
+            "uvlock": true,
+            "y": 270
+        },
+        "type=west,charged=false": {
+            "model": "architects_palette:block/hadaline_brick_vertical_slab",
+            "uvlock": true,
+            "y": 270
+        },
+        "type=double,charged=true": {
+            "model": "architects_palette:block/hadaline_bricks_charged"
+        },
+        "type=double,charged=false": {
+            "model": "architects_palette:block/hadaline_bricks"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "architects_palette:block/vertical_slab",
+    "textures": {
+        "side": "architects_palette:block/hadaline_tiles",
+        "top": "architects_palette:block/hadaline_tiles",
+        "bottom": "architects_palette:block/hadaline_tiles",
+        "particle": "#side"
+    }
+}

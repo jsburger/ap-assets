@@ -1,0 +1,9 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "side": "architects_palette:block/hadaline_tiles_charged",
+        "top": "architects_palette:block/hadaline_tiles_charged",
+        "bottom": "architects_palette:block/hadaline_tiles_charged",
+        "particle": "#side"
+    }
+}

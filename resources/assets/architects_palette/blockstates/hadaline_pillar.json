@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "axis=y,charged=true": {
+            "model": "architects_palette:block/hadaline_pillar_charged"
+        },
+        "axis=y,charged=false": {
+            "model": "architects_palette:block/hadaline_pillar"
+        },
+        "axis=z,charged=true": {
+            "model": "architects_palette:block/hadaline_pillar_horizontal_charged",
+            "x": 90
+        },
+        "axis=z,charged=false": {
+            "model": "architects_palette:block/hadaline_pillar_horizontal",
+            "x": 90
+        },
+        "axis=x,charged=true": {
+            "model": "architects_palette:block/hadaline_pillar_horizontal_charged",
+            "x": 90,
+            "y": 90
+        },
+        "axis=x,charged=false": {
+            "model": "architects_palette:block/hadaline_pillar_horizontal",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

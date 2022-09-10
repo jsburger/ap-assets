@@ -493,5 +493,16 @@
   "block.architects_palette.oxidized_copper_nub": "Oxidized Copper Nub",
   "block.architects_palette.waxed_oxidized_copper_nub": "Waxed Oxidized Copper Nub",
 
-  "block.architects_palette.abyssaline_plating": "Abyssaline Plating"
+  "block.architects_palette.abyssaline_plating": "Abyssaline Plating",
+
+  "block.architects_palette.hadaline_bricks": "Hadaline Bricks",
+  "block.architects_palette.hadaline_tiles": "Hadaline Tiles",
+  "block.architects_palette.hadaline_tile_slab": "Hadaline Tile Slab",
+  "block.architects_palette.hadaline_tile_vertical_slab": "Hadaline Tile Vertical Slab",
+  "block.architects_palette.hadaline_brick_slab": "Hadaline Brick Slab",
+  "block.architects_palette.hadaline_brick_vertical_slab": "Hadaline Brick Vertical Slab",
+  "block.architects_palette.hadaline_pillar": "Hadaline Pillar",
+  "block.architects_palette.hadaline": "Hadaline",
+  "block.architects_palette.hadaline_plating": "Hadaline Plating",
+  "block.architects_palette.hadaline_lamp": "Hadaline Lamp"
 }

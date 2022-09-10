@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "side": "architects_palette:block/hadaline_plating_charged",
+        "top": "architects_palette:block/hadaline_plating_top_charged",
+        "bottom": "architects_palette:block/hadaline_plating_bottom_charged",
+        "particle": "#side"
+    }
+}

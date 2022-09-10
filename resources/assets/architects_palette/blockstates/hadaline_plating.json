@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "charged=true": {
+            "model": "architects_palette:block/hadaline_plating_charged"
+        },
+        "charged=false": {
+            "model": "architects_palette:block/hadaline_plating"
+        }
+    }
+}

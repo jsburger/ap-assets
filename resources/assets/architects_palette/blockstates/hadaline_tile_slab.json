@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "charged=true,type=top": {
+            "model": "architects_palette:block/hadaline_tile_slab_charged_top"
+        },
+        "charged=true,type=bottom": {
+            "model": "architects_palette:block/hadaline_tile_slab_charged"
+        },
+        "charged=true,type=double": {
+            "model": "architects_palette:block/hadaline_tiles_charged"
+        },
+        "charged=false,type=top": {
+            "model": "architects_palette:block/hadaline_tile_slab_top"
+        },
+        "charged=false,type=bottom": {
+            "model": "architects_palette:block/hadaline_tile_slab"
+        },
+        "charged=false,type=double": {
+            "model": "architects_palette:block/hadaline_tiles"
+        }
+    }
+}

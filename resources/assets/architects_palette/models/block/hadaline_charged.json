@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "architects_palette:block/hadaline_charged",
+        "end": "architects_palette:block/hadaline_top_charged",
+        "particle": "#side"
+    }
+}
