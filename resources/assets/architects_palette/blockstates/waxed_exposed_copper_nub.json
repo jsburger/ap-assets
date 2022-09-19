@@ -1,18 +1,18 @@
 {
     "variants": {
         "facing=north": {
-            "model": "architects_palette:block/nubs/exposed_copper_nub_horizontal"
+            "model": "architects_palette:block/nubs/exposed_copper_nub"
         },
         "facing=east": {
-            "model": "architects_palette:block/nubs/exposed_copper_nub_horizontal",
+            "model": "architects_palette:block/nubs/exposed_copper_nub",
             "y": 90
         },
         "facing=south": {
-            "model": "architects_palette:block/nubs/exposed_copper_nub_horizontal",
+            "model": "architects_palette:block/nubs/exposed_copper_nub",
             "y": 180
         },
         "facing=west": {
-            "model": "architects_palette:block/nubs/exposed_copper_nub_horizontal",
+            "model": "architects_palette:block/nubs/exposed_copper_nub",
             "y": 270
         },
         "facing=up": {

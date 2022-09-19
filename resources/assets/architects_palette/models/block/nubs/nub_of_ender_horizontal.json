@@ -1,9 +1,0 @@
-{
-    "parent": "architects_palette:block/nubs/parent_horizontal",
-    "textures": {
-        "top": "architects_palette:block/nubs/nub_of_ender_top",
-        "bottom": "architects_palette:block/nubs/nub_of_ender_bottom",
-        "side": "architects_palette:block/nubs/nub_of_ender_side",
-        "particle": "#top"
-    }
-}
