@@ -4,7 +4,6 @@
   "subtitles.architects_palette.cage_lantern.toggle_on": "Cage Lantern Toggled",
   "subtitles.architects_palette.cage_lantern.toggle_off": "Cage Lantern Toggled",
 
-  "itemGroup.architects_palette.everything": "Architect's Palette",
   "architects_palette.misc.no_quark": "Requires the Quark Mod installed",
   "architects_palette.misc.vertical_config": "Vertical Slabs are Disabled in the Config",
  
@@ -28,6 +27,7 @@
   "architects_palette.info.cage_lanterns": "Can be activated via redstone. Redstone sensitivity can be inverted via right-click",
   "architects_palette.info.nether_brass": "When lit on fire, Nether Brass burns with a unique green flame.",
 
+  "itemGroup.architects_palette.everything": "Architect's Palette",
   "text.config.architects_palette.title": "Architect's Palette Configs",
   "text.config.architects_palette.section.trading": "Trading",
   "text.config.architects_palette.section.worldGen": "World Gen",
@@ -37,10 +37,10 @@
   "text.config.architects_palette.option.sunstoneSpreadChance.tooltip": "Chance of updating adjacent moon/sunstone blocks,\n cascading updates and helping larger areas stay in sync",
   "text.config.architects_palette.option.enableVillagerTrades": "Enable Villager Trades",
   "text.config.architects_palette.option.enableVillagerTrades.tooltip": "Villagers that already sell AP items will continue to do so \n regardless of this setting.",
-  "text.config.architects_palette.option.enableWandererTrades": "Enable AP Wandering Trades.",
-  "text.config.architects_palette.option.globalWorldGenToggle": "Global World Gneration Toggle.",
+  "text.config.architects_palette.option.enableWandererTrades": "Enable AP Wandering Trades",
+  "text.config.architects_palette.option.globalWorldGenToggle": "Global World Gneration Toggle",
   "text.config.architects_palette.option.globalWorldGenToggle.tooltip": "Controls All worldgen features added by Architect's Palette.\n (If false, NOTHING from AP will generate. If true, individual features may still be disabled.)",
-  "text.config.architects_palette.option.netherCrystalGeneration": "World Gneration Toggle.",
+  "text.config.architects_palette.option.netherCrystalGeneration": "World Gneration Toggle",
   "text.config.architects_palette.option.netherCrystalGeneration.tooltip": "Controls the spawning of Monazite, Ekanite, and Heliodor rods in various Nether biomes.",
 
 

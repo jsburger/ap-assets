@@ -1,8 +1,3 @@
 {
-  "parent": "architects_palette:block/nubs/exposed_copper_nub",
-  "display": {
-    "gui": {
-      "rotation": [0,180,0]
-    }
-  }
+  "parent": "architects_palette:block/nubs/exposed_copper_nub"
 }
