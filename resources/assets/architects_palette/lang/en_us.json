@@ -504,5 +504,11 @@
   "block.architects_palette.hadaline_pillar": "Hadaline Pillar",
   "block.architects_palette.hadaline": "Hadaline",
   "block.architects_palette.hadaline_plating": "Hadaline Plating",
-  "block.architects_palette.hadaline_lamp": "Hadaline Lamp"
+  "block.architects_palette.hadaline_lamp": "Hadaline Lamp",
+
+  "block.architects_palette.tread_plate": "Tread Plate",
+  "block.architects_palette.tread_plate_slab": "Tread Plate Slab",
+  "block.architects_palette.tread_plate_vertical_slab": "Tread Plate Vertical Slab",
+  "block.architects_palette.tread_plate_wall": "Tread Plate Wall",
+  "block.architects_palette.tread_plate_stairs": "Tread Plate Stairs"
 }
