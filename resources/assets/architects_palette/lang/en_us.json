@@ -513,7 +513,7 @@
   "block.architects_palette.tread_plate_stairs": "Tread Plate Stairs",
 
   "block.architects_palette.hazard_block": "Hazard Block",
-  "block.architects_palette.hazard_block_slab": "Hazard Block Slab",
-  "block.architects_palette.hazard_block_vertical_slab": "Hazard Block Vertical Slab",
-  "block.architects_palette.hazard_block_wall": "Hazard Block Wall"
+  "block.architects_palette.hazard_slab": "Hazard Slab",
+  "block.architects_palette.hazard_vertical_slab": "Hazard Vertical Slab",
+  "block.architects_palette.hazard_wall": "Hazard Wall"
 }
