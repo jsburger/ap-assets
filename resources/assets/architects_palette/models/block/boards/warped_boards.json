@@ -1,8 +1,0 @@
-{
-  "parent": "architects_palette:block/boards/parent",
-  "textures": {
-    "particle": "architects_palette:block/warped_boards",
-    "even": "architects_palette:block/warped_boards",
-    "odd": "architects_palette:block/warped_boards_odd"
-  }
-}
