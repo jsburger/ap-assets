@@ -1,5 +1,5 @@
 {
-  "parent": "block/door_top_rh",
+  "parent": "block/door_top_right_open",
   "textures": {
     "bottom": "architects_palette:block/twisted_door_bottom",
     "top": "architects_palette:block/twisted_door_top"
