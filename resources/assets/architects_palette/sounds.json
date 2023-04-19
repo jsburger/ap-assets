@@ -1,10 +1,24 @@
 {
+  "block.wizard_deflect": {
+    "subtitle": "subtitles.architects_palette.wardstone_deflect",
+    "sounds": [
+      {"name": "architects_palette:reflect/reflect1"},
+      {"name": "architects_palette:reflect/reflect2"},
+      {"name": "architects_palette:reflect/reflect3"}
+    ]
+  },
+  "block.chiseled_hadaline.activate": {
+    "subtitle": "subtitles.architects_palette.chiseled_hadaline.activate",
+    "sounds": [
+      {"name": "architects_palette:block/chiseled_hadaline/activate"}
+    ]
+  },
   "block.entwine.hit": {
     "subtitle": "subtitles.block.generic.hit",
     "sounds" : [
-      {"name": "architects_palette:block/entwine/hit1"},
-      {"name": "architects_palette:block/entwine/hit2"},
-      {"name": "architects_palette:block/entwine/hit3"}
+      {"name": "architects_palette:block/entwine/break1"},
+      {"name": "architects_palette:block/entwine/break2"},
+      {"name": "architects_palette:block/entwine/break3"}
     ]
   },
   "block.entwine.place": {
