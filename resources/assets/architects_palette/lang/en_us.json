@@ -605,5 +605,35 @@
   "block.architects_palette.tread_plate_slab": "Tread Plate Slab",
   "block.architects_palette.tread_plate_stairs": "Tread Plate Stairs",
   "block.architects_palette.tread_plate_vertical_slab": "Tread Plate Vertical Slab",
-  "block.architects_palette.tread_plate_wall": "Tread Plate Wall"
+  "block.architects_palette.tread_plate_wall": "Tread Plate Wall",
+
+  "block.architects_palette.chiseled_lunstone": "Chiseled Lunstone",
+  "block.architects_palette.bordered_lunstone": "Bordered Lunstone",
+  "block.architects_palette.cracked_lunstone_bricks": "Cracked Lunstone Bricks",
+  "block.architects_palette.lunstone": "Lunstone",
+  "block.architects_palette.lunstone_brick_slab": "Lunstone Brick Slab",
+  "block.architects_palette.lunstone_brick_stairs": "Lunstone Brick Stairs",
+  "block.architects_palette.lunstone_brick_vertical_slab": "Lunstone Brick Vertical Slab",
+  "block.architects_palette.lunstone_brick_wall": "Lunstone Brick Wall",
+  "block.architects_palette.lunstone_bricks": "Lunstone Bricks",
+  "block.architects_palette.lunstone_slab": "Lunstone Slab",
+  "block.architects_palette.lunstone_stairs": "Lunstone Stairs",
+  "block.architects_palette.lunstone_vertical_slab": "Lunstone Vertical Slab",
+  "block.architects_palette.lunstone_wall": "Lunstone Wall",
+
+  "block.architects_palette.craterstone": "Craterstone",
+  "block.architects_palette.craterstone_slab": "Craterstone Slab",
+  "block.architects_palette.craterstone_stairs": "Craterstone Stairs",
+  "block.architects_palette.craterstone_vertical_slab": "Craterstone Vertical Slab",
+  "block.architects_palette.craterstone_wall": "Craterstone Wall",
+
+  "block.architects_palette.nebulite": "Nebulite",
+  "block.architects_palette.nebulite_slab": "Nebulite Slab",
+  "block.architects_palette.nebulite_stairs": "Nebulite Stairs",
+  "block.architects_palette.nebulite_vertical_slab": "Nebulite Vertical Slab",
+  "block.architects_palette.nebulite_wall": "Nebulite Wall",
+  "block.architects_palette.polished_nebulite": "Polished Nebulite",
+  "block.architects_palette.polished_nebulite_slab": "Polished Nebulite Slab",
+  "block.architects_palette.polished_nebulite_stairs": "Polished Nebulite Stairs",
+  "block.architects_palette.polished_nebulite_vertical_slab": "Polished Nebulite Vertical Slab"
 }
