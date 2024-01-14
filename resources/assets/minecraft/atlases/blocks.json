@@ -2,7 +2,7 @@
   "sources": [
     {
       "type": "single",
-      "resource": "block/sheet_metal_block_ct"
+      "resource": "architects_palette:block/sheet_metal_block_ct"
     }
   ]
 }
