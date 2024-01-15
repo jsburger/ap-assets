@@ -21,6 +21,7 @@
   "architects_palette.info.dimension.minecraft.the_nether": "the Nether",
   "architects_palette.info.dimension.minecraft.the_end": "the End",
   "architects_palette.info.dimension.minecraft.overworld": "the Overworld",
+  "architects_palette.info.dimension.aether.the_aether": "the Aether",
   "architects_palette.info.chiseled_chargeable": "A Heart of the Sea may be placed in this block to charge it and all connected blocks.",
   "architects_palette.info.chargeable": "These blocks can receive power from their Chiseled Bricks, check them out for more info.",
   "architects_palette.info.totem_carving": "Using an axe on these totems will cycle their expressions.",
@@ -29,6 +30,7 @@
   "architects_palette.info.heavy_bricks": "Every 2 blocks connect together, making a larger version of vanilla's bricks possible.",
   "architects_palette.info.cage_lanterns": "Can be activated via redstone. Redstone sensitivity can be inverted via right-click",
   "architects_palette.info.nether_brass": "When lit on fire, Nether Brass burns with a unique green flame.",
+  "architects_palette.info.wardstone": "Wardstone blocks will deflect projectiles on impact.",
 
   "architects_palette.advancement.root": "Architect's Palette",
   "architects_palette.advancement.root.desc": "Time to build with something new.",
